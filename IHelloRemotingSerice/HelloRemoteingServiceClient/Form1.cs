@@ -15,6 +15,7 @@ namespace HelloRemoteingServiceClient
 {
     public partial class Form1 : Form
     {
+//akanksha
         IHelloRemotingSerice.IHelloReMotingService client;
         public Form1()
         {
