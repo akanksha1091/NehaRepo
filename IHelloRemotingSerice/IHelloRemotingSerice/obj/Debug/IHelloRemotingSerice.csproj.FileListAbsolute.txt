@@ -1,0 +1,4 @@
+D:\MyPractiseWCF\IHelloRemotingSerice\IHelloRemotingSerice\bin\Debug\IHelloRemotingSerice.dll
+D:\MyPractiseWCF\IHelloRemotingSerice\IHelloRemotingSerice\bin\Debug\IHelloRemotingSerice.pdb
+D:\MyPractiseWCF\IHelloRemotingSerice\IHelloRemotingSerice\obj\Debug\IHelloRemotingSerice.dll
+D:\MyPractiseWCF\IHelloRemotingSerice\IHelloRemotingSerice\obj\Debug\IHelloRemotingSerice.pdb

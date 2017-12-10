@@ -1,0 +1,7 @@
+D:\MyPractiseWCF\IHelloRemotingSerice\HelloRemotingServices\bin\Debug\HelloRemotingServices.dll
+D:\MyPractiseWCF\IHelloRemotingSerice\HelloRemotingServices\bin\Debug\HelloRemotingServices.pdb
+D:\MyPractiseWCF\IHelloRemotingSerice\HelloRemotingServices\bin\Debug\IHelloRemotingSerice.dll
+D:\MyPractiseWCF\IHelloRemotingSerice\HelloRemotingServices\bin\Debug\IHelloRemotingSerice.pdb
+D:\MyPractiseWCF\IHelloRemotingSerice\HelloRemotingServices\obj\Debug\HelloRemotingServices.csprojResolveAssemblyReference.cache
+D:\MyPractiseWCF\IHelloRemotingSerice\HelloRemotingServices\obj\Debug\HelloRemotingServices.dll
+D:\MyPractiseWCF\IHelloRemotingSerice\HelloRemotingServices\obj\Debug\HelloRemotingServices.pdb
